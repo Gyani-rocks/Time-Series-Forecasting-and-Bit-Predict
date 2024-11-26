@@ -1,7 +1,7 @@
 # Time-Series-Forecasting-and-Bit-Predict
 This repository contains an introduction to the Time_series fundamentals in TensorFlow and also an end-to-end forecasting model that is going to predict the future price of Bitcoin, based on the historical price of Bitcoin. Time Series problems refer to certain computational problems where a time constraint affects the production results. It is generally of two types : classification and forecast. The model built in this notebook predicts future results based on past outcomes under a 'time' factor and follows a supervised learning approach meaning we'd have some example data and a label associated with that data.
 
-## What we are going to cover (broadly):
+## What I have covered (broadly):
 
 1. Get time series data (the historical price of Bitcoin)
   * Load in time series data using pandas/Python's CSV module
